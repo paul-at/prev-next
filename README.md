@@ -1,6 +1,6 @@
 # Prev::Next
 
-Index previous/next records in a recordset.
+Index previous/next records in a ActiveRecord or similar recordset.
 
 Takes an existing recordset such as ActiveRecord query and creates an index of previous/next records without extra database requests.
 
